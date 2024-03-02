@@ -21,10 +21,10 @@ function App() {
       
      */}
       <AppBar/>
-       <BrowserRouter>
+       {/* <BrowserRouter basename='/sarvottam'> */}
       <Routes>
         {/* <Route path="/" element={}> */}
-        <Route path="/" element={<BlogList/>} />
+        <Route exact path="/" element={<BlogList/>} ></Route>
         <Route path="/about" element={<About />} />
 
 
@@ -33,7 +33,7 @@ function App() {
           <Route path="*" element={<NoPage />} /> */}
         {/* </Route> */}
       </Routes>
-    </BrowserRouter>
+    {/* </BrowserRouter> */}
     <Footer/> 
 
       {/* <Blogs/> */}
