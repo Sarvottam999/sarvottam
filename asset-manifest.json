@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sarvottam/static/css/main.4555249e.css",
-    "main.js": "/sarvottam/static/js/main.c48da350.js",
+    "main.js": "/sarvottam/static/js/main.5f5cad9b.js",
     "static/js/453.a5b5c665.chunk.js": "/sarvottam/static/js/453.a5b5c665.chunk.js",
     "static/media/7248468_3585693.svg": "/sarvottam/static/media/7248468_3585693.146d0f6c0a9464f235435bb81a15621d.svg",
     "static/media/gt.woff": "/sarvottam/static/media/gt.77860a5d13aaf3bacf13.woff",
@@ -10,11 +10,11 @@
     "static/media/logo.svg": "/sarvottam/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sarvottam/index.html",
     "main.4555249e.css.map": "/sarvottam/static/css/main.4555249e.css.map",
-    "main.c48da350.js.map": "/sarvottam/static/js/main.c48da350.js.map",
+    "main.5f5cad9b.js.map": "/sarvottam/static/js/main.5f5cad9b.js.map",
     "453.a5b5c665.chunk.js.map": "/sarvottam/static/js/453.a5b5c665.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4555249e.css",
-    "static/js/main.c48da350.js"
+    "static/js/main.5f5cad9b.js"
   ]
 }
